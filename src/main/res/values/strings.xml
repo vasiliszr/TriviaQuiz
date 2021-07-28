@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Trivia Quiz</string>
+    <string name="name">Trivia Quiz</string>
+    <string name="start_quiz">Εκκίνηση</string>
+    <string name="highscore">Highscore: 0</string>
+</resources>
